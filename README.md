@@ -1,5 +1,11 @@
 To convert json to a viewable UI using ReactJs.
 
+
+### App demo
+
+<img src = "./Demo.png" width=400 />
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
